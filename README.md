@@ -1,6 +1,8 @@
 # Predicting-Multi-Source-Social-Media-Popularity
 IMT 575 Data Science III: Scaling, Applications, and Ethics
 
+![poster](https://github.com/MollyMeng/Predicting-Multi-Source-Social-Media-Popularity/blob/master/575%20poster.png)
+
 ### Exploratory Analysis
 #### News_data_EDA
 Basic popularity check across the platfroms. 
